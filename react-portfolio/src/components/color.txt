@@ -1,0 +1,17 @@
+ 
+ //them1//
+ --color-bg: #1f1f38;
+  --color-bg-variant: #2c2c6c;
+  --color-primary: #4db5ff;
+  --color-primary-variant: rgba(77, 181, 255, 0.4);
+  --color-white: #fff;
+  --color-light: rgba(255, 255, 255, 0.6);
+
+
+//them2//
+   --color-bg: #393e46;
+  --color-bg-variant: #00adb5;
+  --color-primary: #aad8d3;
+  --color-primary-variant: #126e82;
+  --color-white: #fff;
+  --color-light: rgba(255, 255, 255, 0.6);
